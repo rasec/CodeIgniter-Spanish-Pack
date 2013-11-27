@@ -21,4 +21,4 @@ $lang['imglib_missing_font'] = "No se ha podido encontrar la fuente que desea us
 $lang['imglib_save_failed'] = "No se puede guardar la imagen. Por favor, asegúrese de que el directorio de imágenes y el archivo se pueden escribir.";
 
 /* End of file imglib_lang.php */
-/* Location: ./system/language/english/imglib_lang.php */
+/* Location: ./system/language/spanish/imglib_lang.php */

@@ -17,6 +17,10 @@ $lang['profiler_no_get']		= 'No existen datos de tipo GET';
 $lang['profiler_no_uri']		= 'No existen datos de tipo URI';
 $lang['profiler_no_memory']		= 'Uso de memoria no disponible';
 $lang['profiler_no_profiles']	= 'No hay datos de perfil - se desabilitan todas las secciones del perfil.';
+/* Added after 2.0.2 */
+$lang['profiler_session_data']	= 'SESSION DATA';
+$lang['profiler_section_hide']	= 'Esconder';
+$lang['profiler_section_show']	= 'Mostrar';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/english/profiler_lang.php */
+/* Location: ./system/language/spanish/profiler_lang.php */

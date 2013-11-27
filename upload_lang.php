@@ -20,4 +20,4 @@ $lang['upload_stopped_by_extension'] = "La carga de archivos fue detenido por la
 
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./system/language/spanish/upload_lang.php */

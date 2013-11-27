@@ -28,4 +28,4 @@ $lang['db_unable_to_set_charset'] = 'No se puede establecer el juego de caracter
 $lang['db_error_heading'] = 'Se produjo un error en la base de datos';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/english/db_lang.php */
+/* Location: ./system/language/spanish/db_lang.php */

@@ -11,7 +11,7 @@ $lang['ftp_unable_to_download']		= "Imposible descargar el archivo especificado.
 $lang['ftp_no_source_file']			= "No se ha podido localizar el archivo de origen. Por favor compruebe la ruta.";
 $lang['ftp_unable_to_rename']		= "Imposible renombrar el archivo.";
 $lang['ftp_unable_to_delete']		= "Imposible borrar el archivo.";
-$lang['ftp_unable_to_move']			= "Imposible mover el achivo. Por favor aseguresé que el directorio de destino existe.";
+$lang['ftp_unable_to_move']			= "Imposible mover el achivo. Por favor asegúrese que el directorio de destino existe.";
 
 
 /* End of file ftp_lang.php */
